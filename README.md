@@ -1,2 +1,2 @@
 # Admin-RTLTemplate
-Demo : https://hosseinakbari8013.github.io/Admin-RTLTemplate/examples
+Demo : https://hosseinakbari8013.github.io/Admin-RTLTemplate/examples/dashboard.html
